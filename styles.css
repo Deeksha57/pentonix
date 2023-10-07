@@ -1,0 +1,436 @@
+nav {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 1366px;
+    height: 80px;
+    /* UI Properties */
+    background: transparent url('img/Rectangle 46.png');
+    opacity: 1;
+}
+
+#icon {
+    top: 22px;
+    left: 10px;
+    width: 100px;
+    height: 27px;
+    /* UI Properties */
+    background: transparent url('img/STABLE LOGO with Trademark R black.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+main {
+    position: relative;
+    margin: -15px;
+    top: 80px;
+    left: 0px;
+    width: 1366px;
+    height: 550px;
+    /* UI Properties */
+    background: transparent url('img/MicrosoftTeams-image (3).png');
+    opacity: 1;
+}
+
+#back {
+    position: relative;
+    top: 120px;
+    left: 49px;
+    width: 60px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('img/Group 4810.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#next {
+    position: absolute;
+    top: 105px;
+    left: 127px;
+    width: 60px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('img/Group 4809.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#back_black {
+    position: absolute;
+    top: 208px;
+    left: 49px;
+    width: 60px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('img/Group 4812.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#next_black {
+    position: absolute;
+    top: 208px;
+    left: 127px;
+    width: 60px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('img/Group 4811.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#menu {
+    position: absolute;
+    top: 323px;
+    left: 43px;
+    width: 60px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('img/Group 4813.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#menu_2 {
+    position: absolute;
+    top: 323px;
+    left: 141px;
+    width: 78px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('img/Group 4814.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#menu_b {
+    position: absolute;
+    top: 411px;
+    left: 43px;
+    width: 60px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('img/Group 4816.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#menu_b2 {
+    position: absolute;
+    top: 411px;
+    left: 141px;
+    width: 78px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('img/Group 4815.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#res {
+    position: absolute;
+    top: 88px;
+    left: 250px;
+    width: 100px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('img/Group 4808.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#nav {
+    position: absolute;
+    top: 88px;
+    left: 387px;
+    width: 100px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('img/Group 4805.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#exit {
+    position: absolute;
+    top: 88px;
+    left: 524px;
+    width: 100px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('img/Group 4804.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+
+
+#res_b {
+    position: absolute;
+    top: 173px;
+    left: 250px;
+    width: 100px;
+    height: 70px;
+    background: transparent url('img/Group 4807.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#nav_b {
+    top: 173px;
+    left: 387px;
+    width: 100px;
+    height: 70px;
+    background: transparent url('img/Group 4806.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#exit_b {
+    top: 173px;
+    left: 524px;
+    width: 100px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('img/Group 4803.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#sp {
+    top: 284px;
+    left: 283px;
+    width: 27px;
+    height: 22px;
+    background: transparent url('img/Group 4796.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#no_sp {
+    top: 284px;
+    left: 317px;
+    width: 27px;
+    height: 22px;
+    background: transparent url('img/Group 4798.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#start {
+    top: 294px;
+    left: 428px;
+    width: 143px;
+    height: 57px;
+    background: transparent url('img/Group 4818.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#start_o {
+    top: 389px;
+    left: 428px;
+    width: 143px;
+    height: 57px;
+    /* UI Properties */
+    background: transparent url('img/Group 4817.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#sub {
+    top: 107px;
+    left: 688px;
+    width: 128px;
+    height: 38px;
+    background: transparent url('img/Group 4802.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#sub_w {
+    top: 182px;
+    left: 688px;
+    width: 128px;
+    height: 38px;
+    /* UI Properties */
+    background: transparent url('img/Group 4801.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#ret {
+    top: 294px;
+    left: 642px;
+    width: 307px;
+    height: 57px;
+    /* UI Properties */
+    background: transparent url('img/Group 4797.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#ret_w {
+    top: 379px;
+    left: 642px;
+    width: 307px;
+    height: 57px;
+    /* UI Properties */
+    background: transparent url('img/Group 4800.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#stab_w {
+    top: 6px;
+    left: 0px;
+    width: 119px;
+    height: 40px;
+    /* UI Properties */
+    background: transparent url('img/Rectangle 1150.png') 0% 0% no-repeat padding-box;
+    border-radius: 0px 20px 20px 0px;
+    opacity: 1;
+    position: absolute;
+}
+
+#stab_c {
+    top: 15px;
+    left: 10px;
+    width: 100px;
+    height: 27px;
+    background: transparent url('img/STABLE LOGO with Trademark R black.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#line {
+    top: 4px;
+    left: 131px;
+    width: 2px;
+    height: 50px;
+    background: transparent url('img/Rectangle 48.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#tit {
+    top: 18px;
+    left: 143px;
+    width: 165px;
+    height: 24px;
+    background: transparent url('img/Course name here.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#res_nav {
+    top: -10px;
+    left: 760px;
+    width: 100px;
+    height: 70px;
+    background: transparent url('img/Group 4807.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#nav_n {
+    top: -10px;
+    left: 900px;
+    width: 100px;
+    height: 70px;
+    background: transparent url('img/Group 4806.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#exit_nav {
+    top: -10px;
+    left: 1060px;
+    width: 100px;
+    height: 70px;
+    background: transparent url('img/Group 4803.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#banner {
+    top: 92px;
+    left: 39px;
+    width: 325px;
+    height: 253px;
+    /* UI Properties */
+    background: transparent url('img/lily_large.png') 0% 0% no-repeat padding-box;
+    border-radius: 25px;
+    opacity: 1;
+    position: absolute;
+}
+
+
+#heart {
+    top: 118px;
+    left: 390px;
+    width: 55px;
+    height: 50px;
+    background: transparent url('img/Group 4754.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+
+#heading {
+    top: 131px;
+    left: 477px;
+    width: 185px;
+    height: 25px;
+    background: transparent url('img/CASE INFORMATION.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+ul {
+    top: 200px;
+    left: 452px;
+    width: 270px;
+    height: 19px;
+    position: absolute;
+}
+
+h2 {
+    top: 371px;
+    left: 164px;
+    width: 75px;
+    height: 23px;
+    position: absolute;
+}
+
+#sub1 {
+    top: 420px;
+    left: 69px;
+    width: 170px;
+    height: 39px;
+    background: transparent url('img/BORN AT 34-2/7 weeks gestation.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#sub2 {
+    top: 486px;
+    left: 69px;
+    width: 61px;
+    height: 39px;
+    /* UI Properties */
+    background: transparent url('img/WEIGHT 1.75 kg.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+#banner_16{
+    top: 92px;
+left: 39px;
+width: 325px;
+height: 253px;
+background: transparent url('img/William_large.png') 0% 0% no-repeat padding-box;
+border-radius: 25px;
+opacity: 1;
+position: absolute;
+}
+
+#banner_17{
+    top: 92px;
+left: 39px;
+width: 325px;
+height: 253px;
+background: transparent url('img/cori-large-old.png') 0% 0% no-repeat padding-box;
+border-radius: 25px;
+opacity: 1;
+position: absolute;
+}
